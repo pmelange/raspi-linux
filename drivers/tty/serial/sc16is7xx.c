@@ -28,7 +28,7 @@
 #include <uapi/linux/sched/types.h>
 
 #define SC16IS7XX_NAME			"sc16is7xx"
-#define SC16IS7XX_MAX_DEVS		8
+#define SC16IS7XX_MAX_DEVS		16
 
 /* SC16IS7XX register definitions */
 #define SC16IS7XX_RHR_REG		(0x00) /* RX FIFO */
